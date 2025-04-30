@@ -1,0 +1,6 @@
+data/*
+models/INJ/*
+models/REM/*
+__pycache__/*
+utils/__pycache__/*
+procedures/__pycache__/*
